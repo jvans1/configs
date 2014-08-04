@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jvans/code/pokerapp/ngapp/app/views/marketplace'
+let g:netrw_dirhist_2='/Users/jvans/code/pokerapp/ngapp/app/views/marketplace/packages'
+let g:netrw_dirhist_3='/Users/jvans/code/pokerapp/ngapp/app/views/marketplace'
+let g:netrw_dirhist_4='/Users/jvans/code/pokerapp/ngapp/app/views/marketplace/packages'
+let g:netrw_dirhist_5='/Users/jvans/code/pokerapp/ngapp/app/views/marketplace'
+let g:netrw_dirhist_6='/Users/jvans/code/pokerapp/ngapp/app/views'
+let g:netrw_dirhist_7='/Users/jvans/code/pokerapp/ngapp/app/views/packages'
+let g:netrw_dirhist_8='/Users/jvans/code/pokerapp/ngapp/app/scripts'
+let g:netrw_dirhist_9='/Users/jvans/code/pokerapp'
